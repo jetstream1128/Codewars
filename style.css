@@ -6,9 +6,7 @@
 
 div {
 	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	text-align: center;
+	align-items: center;
 	height: 100vh;
 	font-size: 5rem;
 	background: rgb(45, 253, 157);
