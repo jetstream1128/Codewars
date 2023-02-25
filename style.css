@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+div {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	height: 100vh;
+	font-size: 5rem;
+	background: rgb(45, 253, 157);
+	background: linear-gradient(
+		160deg,
+		rgba(45, 253, 157, 1) 0%,
+		rgba(84, 56, 180, 1) 70%
+	);
+	color: aliceblue;
+	text-shadow: 10px 10px 10px #222;
+}
